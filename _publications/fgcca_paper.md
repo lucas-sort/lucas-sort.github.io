@@ -1,5 +1,6 @@
 ---
 title: "Functional generalized canonical correlation analysis for studying multiple longitudinal variables"
+authors: Lucas Sort, Laurent Le Brusquet, Arthur Tenenhaus
 collection: publications
 category: manuscripts
 permalink: /publication/fgcca
