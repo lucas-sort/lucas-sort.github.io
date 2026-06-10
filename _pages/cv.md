@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Statistics and Machine Learning, Université Paris-Saclay, 2025
-* Engineering Degree in Applied Mathmetics and Computer Science, ENSIMAG - Grenoble Institute of Technology, 2021
-* Preparatory Classes (Prépa) in Mathemetics and Physics, Paris, 2018
+* Engineering Degree in Applied Mathematics and Computer Science, ENSIMAG - Grenoble Institute of Technology, 2021
+* Preparatory Classes (Prépa) in Mathematics and Physics, Paris, 2018
 
 
 Publications
