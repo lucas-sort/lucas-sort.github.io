@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Lucas Sort"
 title_separator          : "-"
 name                     : &name "Lucas Sort"
-description              : &description "I am a postdoctoral researcher in the Mathematical Genomics Research Unit (led by Dr. Leo Speidel) in iTHEMS, RIKEN"
+description              : &description "I am a postdoctoral researcher in the Mathematical Genomics Research Unit in iTHEMS, RIKEN"
 url                      : https://lucas-sort.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lucas-sort/lucas-sort.github.io"
@@ -30,6 +30,7 @@ author:
   employer         : "RIKEN"
   uri              : # URL
   email            : "lucas.sort@riken.jp" 
+  languages        : "English, French" 
 
   # Academic websites
   academia         : # URL
