@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Hello! My name is Lucas Sort, I'm a postdoctoral researcher in the [Mathematical Genomics Research Unit](https://speidellab.github.io), led by [Dr. Leo Speidel](https://leospeidel.github.io), at the [RIKEN Center for Interdisciplinary Theoretical and Mathematical Sciences (iTHEMS)](https://ithems.riken.jp/en) located in Japan. Prior to this, I completed my Ph.D. in Statistics and Machine Learning at the Laboratoire des Signaux et Systèmes (L2S), CentraleSupélec, Université Paris-Saclay ([my thesis](https://theses.hal.science/tel-04918883/file/137010_SORT_2025_archivage.pdf)) under the supervision of Pr. Arthur Tenenhaus and Dr. Laurent Le Brusquet.
+Hello! My name is Lucas Sort, I'm a postdoctoral researcher in the [Mathematical Genomics Research Unit](https://speidellab.github.io), led by [Dr. Leo Speidel](https://leospeidel.github.io), at the [RIKEN Center for Interdisciplinary Theoretical and Mathematical Sciences (iTHEMS)](https://ithems.riken.jp/en) located in Japan. Prior to this, I completed my Ph.D. in Statistics and Machine Learning at the [Laboratoire des Signaux et Systèmes (L2S)](https://l2s.centralesupelec.fr/en/), CentraleSupélec, Université Paris-Saclay ([my thesis](https://theses.hal.science/tel-04918883/file/137010_SORT_2025_archivage.pdf)) under the supervision of Pr. Arthur Tenenhaus and Dr. Laurent Le Brusquet.
 
 My research focuses on developping new statistical and machine learning approaches to tackle problems in Biology. More precisely, I am currently working on developping new methods to identify and understand evolutionary processes such as natural selection. 
 
