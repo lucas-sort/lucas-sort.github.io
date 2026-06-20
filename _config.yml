@@ -22,7 +22,7 @@ repository               : "lucas-sort/lucas-sort.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio_photo.png"
+  avatar           : "bio_photo.jpeg"
   name             : "Lucas Sort"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral researcher"
